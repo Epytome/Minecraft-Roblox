@@ -1,0 +1,2 @@
+Press Backspace to make it spooky.
+Press space to start moving the creeper.
